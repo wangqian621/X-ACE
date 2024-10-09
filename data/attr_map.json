@@ -1,0 +1,882 @@
+{
+    "off and on": {
+        "class": "Duration",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "intermittent": {
+        "class": "Duration",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "on-again": {
+        "class": "Duration",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "off-again": {
+        "class": "Duration",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "continuous": {
+        "class": "Duration",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "successive": {
+        "class": "Duration",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "sustained": {
+        "class": "Duration",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "consistent": {
+        "class": "Duration",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "occasional": {
+        "class": "Duration",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "sparse": {
+        "class": "Duration",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "infrequently": {
+        "class": "Duration",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "frequently": {
+        "class": "Duration",
+        "sym": 4,
+        "ant": [
+            3
+        ]
+    },
+    "repeatedly": {
+        "class": "Duration",
+        "sym": 4,
+        "ant": [
+            3
+        ]
+    },
+    "rhythmic": {
+        "class": "Duration",
+        "sym": 4,
+        "ant": [
+            3
+        ]
+    },
+    "slowly": {
+        "class": "Duration",
+        "sym": 5,
+        "ant": [
+            6
+        ]
+    },
+    "gradually": {
+        "class": "Duration",
+        "sym": 5,
+        "ant": [
+            6
+        ]
+    },
+    "smoothly": {
+        "class": "Duration",
+        "sym": 5,
+        "ant": [
+            6
+        ]
+    },
+    "suddenly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "rapidly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "quickly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "fast": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "shortly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "briefly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "promptly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "immediately": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "swiftly": {
+        "class": "Duration",
+        "sym": 6,
+        "ant": [
+            5
+        ]
+    },
+    "big": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "loud": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "noisy": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "strong": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "powerful": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "heavy": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "vast": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "enormous": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "huge": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "thunderous": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "raucous": {
+        "class": "Volume",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "small": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "lightly": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "softly": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "quiet": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "faint": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "slight": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "muted": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "weak": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "faded": {
+        "class": "Volume",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "mid-size": {
+        "class": "Volume",
+        "sym": 3,
+        "ant": [
+            1,
+            2
+        ]
+    },
+    "moderate": {
+        "class": "Volume",
+        "sym": 3,
+        "ant": [
+            1,
+            2
+        ]
+    },
+    "decent": {
+        "class": "Volume",
+        "sym": 3,
+        "ant": [
+            1,
+            2
+        ]
+    },
+    "intermediate": {
+        "class": "Volume",
+        "sym": 3,
+        "ant": [
+            1,
+            2
+        ]
+    },
+    "average": {
+        "class": "Volume",
+        "sym": 3,
+        "ant": [
+            1,
+            2
+        ]
+    },
+    "muffled": {
+        "class": "Pitch",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "low": {
+        "class": "Pitch",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "deep": {
+        "class": "Pitch",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "dull": {
+        "class": "Pitch",
+        "sym": 1,
+        "ant": [
+            2,
+            3
+        ]
+    },
+    "sharp": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "high-pitched": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1,
+            3
+        ]
+    },
+    "mid-pitched": {
+        "class": "Pitch",
+        "sym": 3,
+        "ant": [
+            1,
+            2
+        ]
+    },
+    "shrill": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "searing": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "piercing": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "squeaky": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "whining": {
+        "class": "Pitch",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "on a xxx": {
+        "class": "Location",
+        "sym": 1,
+        "ant": []
+    },
+    "in the background": {
+        "class": "Location",
+        "sym": 1,
+        "ant": []
+    },
+    "against xx": {
+        "class": "Location",
+        "sym": 1,
+        "ant": []
+    },
+    "outdoors": {
+        "class": "Location",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "outside": {
+        "class": "Location",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "open-air": {
+        "class": "Location",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "external": {
+        "class": "Location",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "natural": {
+        "class": "Location",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "indoors": {
+        "class": "Location",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "inside": {
+        "class": "Location",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "interior": {
+        "class": "Location",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "enclosed": {
+        "class": "Location",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "in-house": {
+        "class": "Location",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "domestic": {
+        "class": "Location",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "in the distance": {
+        "class": "Distance",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "distant": {
+        "class": "Distance",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "remote": {
+        "class": "Distance",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "far": {
+        "class": "Distance",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "nearby": {
+        "class": "Distance",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "alongside": {
+        "class": "Distance",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "close": {
+        "class": "Distance",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "next to": {
+        "class": "Distance",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "slow down": {
+        "class": "Change",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "die down": {
+        "class": "Change",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "diminish": {
+        "class": "Change",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "speed up": {
+        "class": "Change",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "harder": {
+        "class": "Change",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "accelerate": {
+        "class": "Change",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "interrupted": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "turn off": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "over": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "broken": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "ceased": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "shut down": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "end": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "completed": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "finished": {
+        "class": "Change",
+        "sym": 3,
+        "ant": [
+            4
+        ]
+    },
+    "begins": {
+        "class": "Change",
+        "sym": 4,
+        "ant": [
+            3
+        ]
+    },
+    "turn on": {
+        "class": "Change",
+        "sym": 4,
+        "ant": [
+            3
+        ]
+    },
+    "starts": {
+        "class": "Change",
+        "sym": 4,
+        "ant": [
+            3
+        ]
+    },
+    "goes up and down": {
+        "class": "Change",
+        "sym": 5,
+        "ant": []
+    },
+    "varies": {
+        "class": "Change",
+        "sym": 5,
+        "ant": []
+    },
+    "alternates": {
+        "class": "Change",
+        "sym": 5,
+        "ant": []
+    },
+    "formal": {
+        "class": "Tone",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "serious": {
+        "class": "Tone",
+        "sym": 1,
+        "ant": [
+            2
+        ]
+    },
+    "casual": {
+        "class": "Tone",
+        "sym": 2,
+        "ant": [
+            1
+        ]
+    },
+    "gentle": {
+        "class": "Tone",
+        "sym": 3,
+        "ant": [
+            4,
+            5
+        ]
+    },
+    "excited": {
+        "class": "Tone",
+        "sym": 4,
+        "ant": [
+            3,
+            5
+        ]
+    },
+    "angry": {
+        "class": "Tone",
+        "sym": 5,
+        "ant": [
+            3,
+            4
+        ]
+    },
+    "skeptical": {
+        "class": "Tone",
+        "sym": 5,
+        "ant": [
+            3,
+            4
+        ]
+    },
+    "commanding": {
+        "class": "Tone",
+        "sym": 5,
+        "ant": [
+            3,
+            4
+        ]
+    },
+    "synthesized": {
+        "class": "Other",
+        "sym": 1,
+        "ant": []
+    },
+    "digital": {
+        "class": "Other",
+        "sym": 1,
+        "ant": []
+    },
+    "electronic": {
+        "class": "Other",
+        "sym": 1,
+        "ant": []
+    },
+    "coarse": {
+        "class": "Other",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "rough": {
+        "class": "Other",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "unrefined": {
+        "class": "Other",
+        "sym": 2,
+        "ant": [
+            3
+        ]
+    },
+    "clear": {
+        "class": "Other",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "steady": {
+        "class": "Other",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    },
+    "distinct": {
+        "class": "Other",
+        "sym": 3,
+        "ant": [
+            2
+        ]
+    }
+}
